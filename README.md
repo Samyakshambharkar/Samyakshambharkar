@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samyakshambharkar
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Software testing and DevOps.
 - 🌱 I’m currently learning some cool stuff.
 
 
