@@ -32,7 +32,7 @@
 **Databases:**
 `MySQL` · `MongoDB` · `PostgreSQL` · `Redis`
 
-<img src="https://skillicons.dev/icons?i=postman,selenium,jest" /> <img src="https://skillicons.dev/icons?i=ts,nodejs,cypress,playwright" /> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,aws" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=postman" /> <img src="https://skillicons.dev/icons?i=ts,nodejs,cypress,playwright" /> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> <img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,aws" /> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 ---
 
 ## **📌 What I’m Working On**
